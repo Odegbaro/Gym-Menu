@@ -7,18 +7,18 @@ div {
     width: 70%;
     border-radius: 1rem;
     }
-.membership{
-   background-color:lightgoldenrodyellow;
-    margin-left: auto; margin-right: auto;
-    width: 70%;
+.membership {
+      background-color:lightgoldenrodyellow;
+      margin-left: auto; margin-right: auto;
+      width: 70%;
 }
- body{
+ body {
     font-family: fantasy;
     background-image: url("Gym images/IMG_7438.jpg");
     background-size:cover;
 }
-.founded { font-size: larger ;
-
+.founded { 
+   font-size: larger ;
 }
 .schedule p { 
    display: inline-block;
@@ -40,10 +40,14 @@ div {
       width:42%;
       font-weight: bold;
    }
-h1,h2{ font-family: 'Times New Roman', Times, serif;
-       font-style: oblique;
-       font-size: 45px;
-      }
-hr{ height: 2.5px;
+h1,h2 { 
+      font-family: 'Times New Roman', Times, serif;
+      font-style: oblique;
+      font-size: 45px;
+}
+hr{
+    height: 2.5px;
     background-color: green;
-    border-color:darkgrey ;}
+    border-color: darkgrey;
+}
+ 
