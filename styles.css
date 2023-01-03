@@ -40,11 +40,13 @@ div {
       width:42%;
       font-weight: bold;
    }
+   
 h1,h2 { 
       font-family: 'Times New Roman', Times, serif;
       font-style: oblique;
       font-size: 45px;
 }
+
 hr{
     height: 2.5px;
     background-color: green;
